@@ -60,6 +60,8 @@ Bir neçə saniyə sonra ekranda
 alert(document.domain)
 ```
 
+![Upload](Screenshot 2026-06-09 164720.png)
+
 işə düşdü.
 
 Bu artıq Stored Cross-Site Scripting idi.
