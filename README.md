@@ -60,7 +60,7 @@ Bir neçə saniyə sonra ekranda
 alert(document.domain)
 ```
 
-![Upload](Screenshot 2026-06-09 164720.png)
+![Upload](Screenshot%202026-06-09%20164720.png)
 
 işə düşdü.
 
